@@ -2,7 +2,9 @@
   "name": "Remix: Abira - AI Voice Assistant",
   "description": "A warm, witty, and intelligent female AI voice assistant who speaks Urdu and English.",
   "requestFramePermissions": [
-    "microphone"
+    "microphone",
+    "camera",
+    "geolocation"
   ],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
